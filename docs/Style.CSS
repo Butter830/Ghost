@@ -1,0 +1,36 @@
+body {
+    
+    background:#61616C;border-style: outset; border-width: 5px; border-color: red;
+     margin-top: 10px;
+  margin-bottom: 200px;
+  margin-right: 3px;
+  margin-left: 90px;text-align: center;
+
+}
+h1{
+    
+    background:yellow; 
+    margin-top: 129px;
+  margin-bottom: 104.5px;
+  margin-right: 1px;
+  margin-left: 17px;text-align:justify; direction: ltr;
+  text-decoration-style:double;text-decoration-thickness: 5px;  
+  text-transform: uppercase; letter-spacing: 6px
+
+
+}
+p{ background:#616198; 
+margin:auto;
+direction:rtl ;text-decoration-thickness: 1000px;
+text-shadow: 10px 15px blue; font-family: "Lucida Console", "Courier New", monospace
+
+  
+}
+
+
+img{border-style: dotted ; border-color: yellow; margin:inherit; padding: 10px; 
+direction: inherit; overflow: hidden;
+
+
+
+}
